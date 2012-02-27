@@ -2,7 +2,7 @@
 
 plugins:
 NERDTree
-TlistTugle
+TagBar
 SnipMate
 
 + ctags
